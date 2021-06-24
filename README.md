@@ -1,0 +1,1 @@
+# Sample_Flask_Project_structure
